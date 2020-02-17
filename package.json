@@ -8,6 +8,7 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": "https://github.com/bash-to-the-future/modern_javascript",
   "dependencies": {
     "moment": "^2.24.0"
   }
